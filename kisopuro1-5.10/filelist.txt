@@ -1,0 +1,24 @@
+#aboutVim.txt#
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+Shadowverse
+VirtualBox VMs
+aboutEmacs.txt
+aboutEmacs.txt~
+aboutVim.txt
+aboutVim.txt~
+calc.txt
+code.txt
+date.txt
+euc_code.txt
+filelist.txt
+files.txt
+hoge.txt
+numbers1.txt
+sorted.txt

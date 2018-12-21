@@ -1,0 +1,19 @@
+2017年 5月10日 水曜日 10時32分11秒 JST
+#aboutVim.txt#
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+Shadowverse
+VirtualBox VMs
+aboutEmacs.txt
+aboutEmacs.txt~
+aboutVim.txt
+aboutVim.txt~
+date.txt
+euc_code.txt
+filelist.txt

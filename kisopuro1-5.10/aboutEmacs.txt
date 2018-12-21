@@ -1,0 +1,6 @@
+Emacs and its derivatives are a family of text editors that are characterized by their extensibility.
+Development of the first Emacs began in the mid-1970s and continues actively as of 2015.
+Development of the first Emacs began in the mid-1970s and continues actively as of 2015.
+Emacs has over 2,000 built-in commands and allows the user to combine these commands into macros to automate work.
+Development of the first Emacs began in the mid-1970s and continues actively as of 2015.
+Emacs has over 2,000 built-in commands and allows the user to combine these commands into macros to automate work.
